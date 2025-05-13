@@ -1,5 +1,7 @@
 # Bonjour 👋
 
+📧 Contact: grc@kroeungcyber.com
+
 ## Professional Summary
 As an aspiring Cybersecurity Professional with a background in International Relations, my primary motivation is to apply my technical skills to support positive human development within NGOs, particularly focusing on creating secure digital spaces.
 
