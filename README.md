@@ -23,10 +23,10 @@ Actively pursuing advanced studies and professional development to deepen expert
 - **E-learning Technology**: Familiarity with LMS deployment and CMS functionalities, including content conversion and quality assurance. Experience with secure CMS configuration (e.g., HTTPS).
 
 ## Projects
-### Microsoft 365 Platform & Security Implementation (Blue Schools E-learning Platform Focus)
+### Microsoft 365 Platform & Security Implementation (E-learning Platform Focus)
 - Led the implementation of a comprehensive M365 environment, including SharePoint Online intranet, Teams collaboration, and Power Automate workflows.
 - Engineered and implemented critical security and compliance configurations using Microsoft Purview (DLP policies, sensitivity labels, retention policies, audit logging) and Microsoft Entra (Conditional Access, MFA).
-- Supported the technical requirements and implementation of the Blue Schools E-learning Platform, ensuring features aligned with user conditions and privacy policies, including data retention/deletion processes, user rights management, activity logging, and secure content handling within the CMS.
+- Supported the technical requirements and implementation of the E-learning Platform, ensuring features aligned with user conditions and privacy policies, including data retention/deletion processes, user rights management, activity logging, and secure content handling within the CMS.
 - Collaborated with development teams to integrate security and privacy considerations into platform specifications. This project directly relates to implementing GRC technical controls.
 
 ### Secure Infrastructure Deployment & Management
