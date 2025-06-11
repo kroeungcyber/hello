@@ -46,7 +46,7 @@ Actively pursuing advanced studies and professional development to deepen expert
 ## Work Experience
 ### E-learning Officer and IT Support, Caritas Switzerland  
 **[Mar, 2022 - Present]**
-- Played a crucial role in the development and deployment of the Cambodia Blue Schools Kit E-learning Platform, supporting the conversion of existing educational materials into interactive e-learning content and integrating it into the platform interface.
+- Played a crucial role in the development and deployment of the E-learning Platform, supporting the conversion of existing educational materials into interactive e-learning content and integrating it into the platform interface.
 - Supported program efforts by assisting with ICT material management, including secure handling and sharing of digital assets across internal cloud-based databases.
 - Supported the technical development process of the E-learning Platform, coordinating with service providers on system specifications, including features related to user data, logging, and security.
 - Collaborated with developers on system backup systems and supported field testing, troubleshooting, and reporting system issues.
