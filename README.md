@@ -1,67 +1,100 @@
-# Bonjour 👋
+# Cybersecurity Professional & Digital Capability Builder 👨‍💻
 
-📧 Contact: grc@kroeungcyber.com
+📧 Contact: grc@kroeungcyber.com  
+🌍 Focus: Southeast Asia & International NGOs
 
 ## Professional Summary
-As an aspiring Cybersecurity Professional with a background in International Relations, my primary motivation is to apply my technical skills to support positive human development within NGOs, particularly focusing on creating secure digital spaces.
+Cybersecurity specialist with international relations background, focused on building secure digital ecosystems for NGOs and law enforcement collaboration. Combines technical expertise in cybercrime investigation, digital forensics, and Microsoft 365 security with policy awareness to develop tailored cybersecurity solutions for high-risk environments.
 
-My experience includes foundational IT support and focused work in cybersecurity, data protection, and compliance, highlighted by drafting user conditions and privacy policies for the Blue Schools e-learning platform, which underscored the need to protect sensitive data, especially for vulnerable populations and resource-constrained organizations. I am eager to leverage my practical skills in areas like network security, security tools, Microsoft 365 security, and data governance to address the unique cybersecurity challenges faced by NGOs. My goal is to strengthen the cybersecurity posture of NGOs in Cambodia and beyond.
+## Cybercrime Investigation Experience
+- **Security Operations**: Developed detection alerts using Splunk SIEM and analyzed network traffic with Wireshark for threat detection
+- **Incident Response**: Conducted vulnerability assessments using Nmap/Burp Suite and analyzed attack vectors through hands-on labs (TryHackMe, Hack The Box)
+- **User Behavior Analysis**: Implemented Microsoft Purview DLP policies and audit logging to monitor sensitive data access
+- **Certifications**: Pursuing CompTIA Security+ with focus on cybercrime fundamentals and digital forensics
 
-## Education
-**Royal University of Phnom Penh**, Bachelor of Arts in International Relations:  
-Recognizing the critical intersection of global affairs and digital security, proactively leveraged academic foundation to pivot towards a specialized focus on cybersecurity, particularly its application within the humanitarian sector.  
-Actively pursuing advanced studies and professional development to deepen expertise in key areas of cybersecurity relevant to vulnerable populations and non-governmental organizations.
+## Digital Forensics
+- **Tool Proficiency**: Wireshark (network analysis), Autopsy (disk forensics), Splunk (log analysis)
+- **Hands-on Experience**: Built security lab environments using Docker for forensic investigation practice
+- **Evidence Handling**: Developed data retention/deletion policies compliant with legal requirements
+- **Continuous Learning**: Actively expanding knowledge in memory forensics and malware analysis
 
-## Key Skills
-- **Network & System Security**: Proficient in networking fundamentals (TCP/IP, protocols, infrastructure). Experienced with Linux basics (kernel, shell scripting, IPTables) and Windows environments (Active Directory, GPO, configurations). Skilled in configuring Windows Firewall and implementing network segmentation for robust security postures.
-- **Security Tools & Operations**: Experienced with Splunk SIEM and SPL for developing detection alerts. Skilled in network traffic analysis using Wireshark and vulnerability scanning with Nmap and Burp Suite. Experienced in analyzing malicious code to understand attack vectors.
-- **Microsoft 365 Security & Administration**: Demonstrated expertise in configuring enterprise security features using Microsoft Purview (DLP policies, sensitivity labels, retention policies), Microsoft Entra (Conditional Access, MFA enforcement), and Compliance Center. Proficient in SharePoint Online, Teams, and OneDrive administration.
-- **Data Governance & Compliance**: Experience implementing technical controls for data retention and deletion policies based on privacy requirements. Skilled in configuring and utilizing systems for user activity logging and auditing to support compliance monitoring. Contributed to defining technical requirements for user data access and management rights. Supported the integration of privacy requirements into system design and development processes. Addressed specific data protection challenges in resource-constrained NGO environments.
-- **Practical Security Applications**: Hands-on experience with Docker and virtual environments for building security labs. Experienced in penetration and API testing through rigorous hands-on labs like TryHackMe and Hack The Box.
-- **Data Protection & Cloud**: Deep commitment to data protection, understanding the critical need for customized cybersecurity solutions for organizations with limited resources in high-risk environments. Developing expertise in cloud security principles. Experience with secure cloud storage for digital assets.
-- **Programming & Scripting**: Practical experience in Python, Bash, and Powershell scripting for automation and security tasks.
-- **E-learning Technology**: Familiarity with LMS deployment and CMS functionalities, including content conversion and quality assurance. Experience with secure CMS configuration (e.g., HTTPS).
+## Legal Knowledge (Cyber)
+- **GDPR Implementation**: Designed technical controls for data protection in e-learning platforms
+- **Privacy Policies**: Drafted user conditions and data handling procedures for vulnerable populations
+- **Cyber Law**: Developed awareness of international cybercrime legislation and cross-border data flows
+- **Compliance**: Configured Microsoft 365 security features (Conditional Access, MFA) to meet organizational policies
+
+## International Collaboration
+- **Cross-border Policy**: Supported security implementations across organizational sub-offices in Cambodia
+- **NGO Partnerships**: Worked with international NGOs to develop secure e-learning platforms
+- **Law Enforcement Alignment**: Designed systems with audit logging to support potential investigations
+- **Capacity Building**: Focused on developing cybersecurity awareness in resource-constrained environments
+
+## Leadership & Strategy
+- **Security Implementation Lead**: Deployed Microsoft 365 security stack (Purview, Entra ID) organization-wide
+- **Mentorship**: Developed cybersecurity training materials for non-technical staff
+- **Documentation**: Created system specifications integrating security and privacy requirements
+- **Digital Transformation**: Led migration to secure cloud infrastructure with proper access controls
+
+## Technical Skills
+### Security Tools
+- SIEM: Splunk (SPL query development)
+- Network Analysis: Wireshark, Nmap
+- Vulnerability Assessment: Burp Suite, TryHackMe
+- Forensics: Autopsy, FTK Imager
+
+### Microsoft 365 Security
+- Purview (DLP, Sensitivity Labels)
+- Entra ID (Conditional Access, MFA)
+- Compliance Center configurations
+- SharePoint/Teams security administration
+
+### Infrastructure
+- Windows Defender/Firewall
+- Active Directory/GPO
+- Network segmentation
+- Docker security labs
+
+### Programming
+- Python (security automation)
+- Bash/PowerShell scripting
+- API security testing
 
 ## Projects
-### Microsoft 365 Platform & Security Implementation (E-learning Platform Focus)
-- Led the implementation of a comprehensive M365 environment, including SharePoint Online intranet, Teams collaboration, and Power Automate workflows.
-- Engineered and implemented critical security and compliance configurations using Microsoft Purview (DLP policies, sensitivity labels, retention policies, audit logging) and Microsoft Entra (Conditional Access, MFA).
-- Supported the technical requirements and implementation of the E-learning Platform, ensuring features aligned with user conditions and privacy policies, including data retention/deletion processes, user rights management, activity logging, and secure content handling within the CMS.
-- Collaborated with development teams to integrate security and privacy considerations into platform specifications. This project directly relates to implementing GRC technical controls.
+### Microsoft 365 Security Implementation
+- Designed and deployed organization-wide security controls
+- Implemented data classification and protection policies
+- Established audit logging for compliance monitoring
+- Integrated security with e-learning platform requirements
 
-### Secure Infrastructure Deployment & Management
-- Configured and optimized Windows Defender and Firewall settings.
-- Established Active Directory authentication integrated with SharePoint for secure user access control.
-- Implemented firewall rules and network segmentation across organizational sub-offices to safeguard sensitive data.
-- Automated system patching using scripting.
+### Secure Infrastructure Deployment
+- Configured SD-WAN with security policies
+- Automated patch management
+- Implemented network segmentation
+- Developed incident response procedures
 
-### Security Monitoring & Analysis Lab
-- Built a lab environment utilizing Docker to gain practical experience in security monitoring and incident response workflows.
-- Engaged in hands-on vulnerability exploration and attack vector analysis using TryHackMe and Hack The Box platforms.
-- Conducted detailed network traffic analysis with Wireshark.
-- Performed vulnerability scanning on web applications using Burp Suite.
-- Conducted network scans with Nmap to identify open ports and potential entry points.
-- Analyzed malicious code to understand attack methods and inform defense strategies.
+### Security Analysis Lab
+- Docker-based environment for threat simulation
+- Malware analysis and attack vector research
+- Network traffic analysis exercises
+- Vulnerability scanning workflows
 
 ## Work Experience
-### E-learning Officer and IT Support, Caritas Switzerland  
-**[Mar, 2022 - Present]**
-- Played a crucial role in the development and deployment of the E-learning Platform, supporting the conversion of existing educational materials into interactive e-learning content and integrating it into the platform interface.
-- Supported program efforts by assisting with ICT material management, including secure handling and sharing of digital assets across internal cloud-based databases.
-- Supported the technical development process of the E-learning Platform, coordinating with service providers on system specifications, including features related to user data, logging, and security.
-- Collaborated with developers on system backup systems and supported field testing, troubleshooting, and reporting system issues.
-- Ensured the quality and technical readiness of e-learning courseware for deployment in Learning Management Systems (LMS).
-- Significantly contributed to strengthening organizational network security by implementing and managing Windows Firewall settings and supporting new network policies through SD-WAN setup across sub-offices.
-- Managed standardized computer setups and provided essential software support, including license management and automation initiatives.
-- Monitored network performance and delivered comprehensive IT support, consistently adhering to security protocols and ensuring rapid problem resolution.
+### E-learning Officer & IT Security Support, Caritas Switzerland  
+**[2022-Present]**
+- Lead security implementation for e-learning platform
+- Developed data protection controls for vulnerable users
+- Configured Microsoft 365 security stack
+- Established secure network infrastructure
 
-### Communication Associate, Private Art Collector  
-**[Mar 2021 - Mar 2022]**
-- Responded to public inquiries about artworks and provided detailed information for website content.
-- Photographed artworks for use in online brochures and marketing materials on the website.
-- Assisted curators in organizing and maintaining digital archives of documents related to artworks, artists, and exhibitions, ensuring accurate and up-to-date website content and secure storage of sensitive information.
+### Previous Roles
+- Communication Associate (focused on secure data handling)
+- International News Columnist (data research/analysis)
 
-### International News Columnist, FRESH News Agency  
-**[June 2020 - Jan 2021]**
-- Crafted news articles using data from various sources.
-- Conducted studies and research to generate story ideas and meticulously tracked their development.
+## Education
+**Royal University of Phnom Penh** - BA International Relations  
+*With cybersecurity specialization through:*
+- TryHackMe learning paths
+- Hack The Box challenges
+- Microsoft security certifications
+- Ongoing professional development
